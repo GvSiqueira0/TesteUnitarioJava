@@ -56,7 +56,7 @@ Antes de começar, certifique-se de que tem instalado:
 
 2.  Navegue até ao diretório do projeto:
     ```bash
-    cd validar-dados
+    cd TesteUnitarioJava
     ```
 
 3.  Compile o projeto:
